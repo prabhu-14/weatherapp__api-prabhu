@@ -1,4 +1,4 @@
-# synent-task6-weatherapp-prabhu
+# weatherapp-prabhu
 # 🌦️ Weather App (API Integration)
 
 A simple and beginner-friendly Python project that fetches **real-time weather information** using a weather API. This app allows users to enter a city name and view the current **temperature** and **humidity** instantly.
